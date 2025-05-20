@@ -8,7 +8,7 @@ Este projeto demonstra um sistema bancário simples utilizando conceitos fundame
 
 Abaixo está o diagrama UML representando a estrutura do projeto Sistema Bancário:
 
-![Diagrama UML do Sistema Bancário](images/diagramaUML.png)
+![Diagrama UML do Sistema Bancário](https://i.imgur.com/gcud1Nb.png)
 
 
 ## Estrutura do Sistema
