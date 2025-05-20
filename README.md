@@ -79,6 +79,19 @@ A interface **`Transacoes`** padroniza os **métodos de saque e depósito** para
       void depositar(double valor);
   }
   ```
+- **Implementação da Interface na Classe `Conta`**:
+```java
+  public abstract class Conta implements Transacoes{
+    @Override
+    public abstract void sacar(double valor);
+
+    @Override
+    public abstract void depositar(double valor);
+}
+
+```
+Com isso suas classes filhas podem sobrescrever o metodo da classe pai.
+
 - **Implementação em `ContaPoupanca`**:
   ```java
   @Override
