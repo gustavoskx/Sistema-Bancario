@@ -166,7 +166,7 @@ Os métodos `set` desempenham um papel importante ao validar e configurar atribu
 
 ---
 
-## 🌟 Exemplo de Uso
+## Exemplo de Uso
 No programa principal (`Main.java`), é possível simular as operações do banco:
 1. **Criar um cliente e uma conta corrent**.
    ```java
